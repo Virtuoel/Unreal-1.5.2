@@ -1,0 +1,107 @@
+Versions:
+
+Current: 0.0.9
+
+Features:
+
+Weapons:
+Translocator
+Chainsaw
+Dispersion Pistol
+Stinger
+Flak Cannon
+Eightball Launcher
+Redeemer
+
+Armor:
+Shield Belt
+Jump Boots
+SCUBA Gear
+Asbestos Suit
+Toxin Suit
+
+Tools:
+Noise Box
+
+WorldGen:
+Rutile Ore
+Magnesium Ore
+Tarydium Ore
+Asbestos Ore
+
+Goin' all Extra Utilities, Mariculture, IC2, and Tinker's on this mod, its Unreal!
+
+Changelog:
+
+v0.0.11
+---
+[Addition] Bedrockium Ingots, Nuggets, and Blocks
+[Addition] Ender Crystal Block can now be used to create Ender Crystal Entities
+[Addition] Cinnabar Crystal, Dust, and Block for Mercury creation
+[Addition] Polished Stone Blocks (Full Stone Slabs)
+[Addition] Slabs can be crafted back into full blocks
+[Addition] Dragon Egg Reproduction Recipe
+[Change] Tweaked debug tool refueling
+[Change] Tweaked materials
+[Change] Bedrockium recipe for U.U.T.C. rebalanced to nuggets
+[Change][WIP] Chat message shown when attempting to toggle weapon modes
+[Change] Debug tool can be used as furnace fuel
+[Bug] Mode switch affects all weapons of the same type
+
+v0.0.10
+---
+[Addition] Ender Crystal Block
+[Addition] Alternate Bedrockium Ingot recipe for U.U.T.C.
+[Change][WIP] Stinger Harvest Levels can be increased for an increase in shard usage.
+
+v0.0.9
+---
+[Balance] Recipe Tweaks: Warhead, Shield Belt, Eightball Launcher, Translocator
+[Addition] Chainsaw, Chain, Chainsaw Blade, Hardened Chainsaw Blade
+[Addition] Dispersion Pistol and Upgrade
+[Addition] Various metal items can be smelted back into their main component ingots, with slight loss
+[Change] Changed Titanium Texture
+[Addition] Iron Dust, Gold Dust, Titanium Dust
+[Addition][WorldGen] Rutile and Magnesium Ore, Ingots, Dusts, Nuggets, and Blocks
+[Change] Magnesium needed for purifying raw Titanium (Rutile)
+[Addition][WorldGen] Asbestos Ore, Dust, and Blocks
+[Addition][WIP] Debug Tool used for machine processing until machines are added
+[Addition] U.U.T.C and Refined Alloy
+[Addition] Compressed Netherrack and End Stone up to 4x
+[Addition] Coal, Charcoal, Flint, and Gunpowder Storage Blocks 
+[Addition] Blaze Rod, Ghast Tear, Slimeball, and Nether Wart Storage Blocks
+[Addition] Coal, Charcoal, and Blaze Rod Blocks can be used as furnace fuel
+[Addition] Toxin Suit, SCUBA Tanks, SCUBA Gear
+[Addition] Mercury Bucket and Asbestos Suit
+[Addition] Noise Box
+[Bugfix] Translocator now tps the correct user
+[Bug][MP][LAN] Only 1 Translocator disk can exist at a time
+
+v0.0.8
+---
+[Addition] Iron Casings for cheaper Flak Shells
+[Bugfix][MP] Translocator crash bug fixed
+[Bugfix][MP] Flak Cannon crash bug fixed
+[Bug][MP][LAN] Translocator tps the last shooter no matter the user
+[Balance] Casings now give 2 per recipe
+[Change] Jump boots now use iron armor material
+[Addition] Eightball rocket recipe
+
+v0.0.1 - v0.0.7:
+--Undocumented--
+
+Syntax List
+-----------
+[Addition]
+[Bugfix]
+[Balance]
+[Change]
+[Removal]
+[Bug]
+[WorldGen]
+[Partial]
+[WIP]
+[MP]
+[SP]
+[LAN]
+
